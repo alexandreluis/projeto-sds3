@@ -36,7 +36,6 @@ const BarChart = () => {
 
     }, []);
 
-
     const options = {
         plotOptions: {
             bar: {
